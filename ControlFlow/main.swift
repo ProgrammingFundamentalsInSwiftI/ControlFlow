@@ -9,7 +9,7 @@ print(true)
 
 
 
-/* PROBLEM 1.1 : TESTING EQUALITY STATEMENTS */
+/*  PROBLEM 1.1 : TESTING EQUALITY STATEMENTS */
 // 9 != 9
 
 
