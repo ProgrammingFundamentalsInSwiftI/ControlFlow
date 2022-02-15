@@ -1,6 +1,6 @@
 import Foundation
 
-/* PROBLEM 1.0 : TESTING EQUALITY STATEMENTS */
+/*  PROBLEM 1.0 : TESTING EQUALITY STATEMENTS */
 
 //In the following comments, print out what the comment is asking using the above logic described. Also print out wheter or not you think it will be TRUE or FALSE. The first one has been completed for you as an example.
 // 9 == 9

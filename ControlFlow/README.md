@@ -1,6 +1,6 @@
 # Control Flow 
  
-This lab will prompt you to check if values inside the code are equal or not. This is what we call equality testing. There are a few ways we can write this in code
+ This lab will prompt you to check if values inside the code are equal or not. This is what we call equality testing. There are a few ways we can write this in code
  
         == : this is equals equals, which checks if two values are equal to each other (ie: the same value)
         9 == 9 returns true, because 9 is equal to 9, or 9 equals equals 9
